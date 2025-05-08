@@ -1,6 +1,6 @@
 {
    "name": "UC - Redirect",
-   "version": "25.1",
+   "version": "25.2",
    "description": "Free Plug-in under MIT License, which means it is free for everyone to use, no matter if for commercial or private use. The UC Redirect dynamic action plug-in is an easy and declarative way to redirect to another page, URL, or open a modal dialog. You have the ability to redirect to a static URL (with substitutions) or a URL that is returned from a PL/SQL Expression. Additionally, you can submit page items and update their session state prior to the URL redirect and optionally execute some PL/SQL Code. The URL will be recomputed on the server when doing this. If you are using session state protection it will return the URL with updated checksums.",
    "keywords": [
       "redirect",
